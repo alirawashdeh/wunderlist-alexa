@@ -42,3 +42,14 @@ heroku local
 ```
 
 You can use Postman or another tool to send requests to your local server, which will run at http://localhost:5000 by default
+
+## Usage
+
+Once you have the skill deployed and created on the Alexa Developer portal, make sure you link your account to Wunderlist using the Alexa app.
+
+After you have linked your account, you can start using the skill, with commands such as:
+- "Alexa, tell Wunderlist to add nappies to my Shopping list"
+- "Alexa, ask Wunderlist what lists I have"
+- "Alexa, ask Wunderlist what I have on my To-do list"
+
+Note: This assumes that you have set an invocation name of "Wunderlist" - you find that Alexa offers better accuracy with different names.
