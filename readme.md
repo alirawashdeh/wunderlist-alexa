@@ -1,5 +1,7 @@
 # Wunderlist skill for Alexa
 
+![Wunderlist for Alexa logo](/alexawunderlist-small.jpg)
+
 [![Wunderlist skill for Alexa video](https://img.youtube.com/vi/GUPMmOY9_UA/0.jpg)](https://www.youtube.com/watch?v=GUPMmOY9_UA)
 
 This is a skill for Amazon Alexa which allows users to:
