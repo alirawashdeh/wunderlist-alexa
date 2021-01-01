@@ -1,8 +1,10 @@
 # Wunderlist skill for Alexa
 
-![Wunderlist for Alexa logo](/alexawunderlist-small.jpg)
+![Wunderlist for Alexa logo](alexawunderlist-small.jpg)
 
 [![Wunderlist skill for Alexa video](https://img.youtube.com/vi/GUPMmOY9_UA/0.jpg)](https://www.youtube.com/watch?v=GUPMmOY9_UA)
+
+### NOTE: This repository is not maintained, and was created for fun back in 2017.
 
 This is a skill for Amazon Alexa which allows users to:
 - Add items to a Wunderlist list
